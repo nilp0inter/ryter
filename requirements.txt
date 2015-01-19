@@ -1,0 +1,4 @@
+Jinja2==2.7.3
+behave==1.2.4
+ipython==2.3.1
+wikipedia==1.4.0
