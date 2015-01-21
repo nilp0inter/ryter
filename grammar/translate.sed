@@ -1,0 +1,33 @@
+#!/bin/sed -f
+s/'and'/'atque'/g
+s/'array'/'dispositio'/g
+s/'begin'/'initium'/g
+s/'case'/'conditio'/g
+s/'const'/'perennis'/g
+s/'do'/'facere'/g
+s/'downto'/'usque ad'/g
+s/'else'/'aliter'/g
+s/'end'/'finis'/g
+s/'file'/'papyrum'/g
+s/'for'/'iterato'/g
+s/'function'/'incantamentum'/g
+s/'goto'/'apello'/g
+s/'if'/'si'/g
+s/'in'/'indu'/g
+s/'label'/'titulus'/g
+s/'not'/'non'/g
+s/'of'/'de'/g
+s/'or'/'aut'/g
+s/'procedure'/'incantatio'/g
+s/'program'/'scriptio'/g
+s/'repeat'/'repetitio'/g
+s/'then'/'ergo'/g
+s/'to'/'ad'/g
+s/'until'/'donec'/g
+s/'var'/'anima'/g
+s/'while'/'dum'/g
+s/'with'/'cum'/g
+s/'type'/'forma'/g
+s/'record'/'arca'/g
+s/'div'/'divisio'/g
+s/'mod'/'reliquum'/g
